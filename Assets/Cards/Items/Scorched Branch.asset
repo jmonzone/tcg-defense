@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffc83e491a796ff4a9debf24ce578b57, type: 3}
+  m_Name: Scorched Branch
+  m_EditorClassIdentifier: 
+  name: Scorched Branch
+  sprite: {fileID: 21300000, guid: d5ff713ea76fb3f4cba10f9a2e5c4772, type: 3}
+  Abilities:
+  - {fileID: 11400000, guid: 020c5a6871dc6bd4d844253e234451e8, type: 2}
+  - {fileID: 11400000, guid: ca56cc1b4bfdbf54fa6aa6bec41d8fd7, type: 2}
+  - {fileID: 11400000, guid: ef907d037248bfc46a5c2378e930d89d, type: 2}
